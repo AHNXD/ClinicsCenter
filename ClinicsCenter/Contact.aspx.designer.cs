@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ClinicsCenter
+namespace CenterClinics
 {
 
 
